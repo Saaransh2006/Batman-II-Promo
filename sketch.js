@@ -16,7 +16,7 @@ function setup() {
     gameState = 1;
     profile = createInput("https://community.whitehatjr.com/project/9ac76715-f93d-4255-a5c0-96b549f4fa1d");
     profile.position(1060,775);
-    part2 = createInput("https://saaransh2006.github.io/Batman-The-Joker-Secret/");
+    part2 = createInput("https://community.whitehatjr.com/project/5a738cb9-da87-4125-8798-7c50ec22f837");
     part2.position(30,640);
 }
 
