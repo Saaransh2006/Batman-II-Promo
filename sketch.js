@@ -27,6 +27,12 @@ function draw() {
     else {
         profile.hide();
     }
+    if(gameState === 2) {
+        part2.show();
+    }
+    else {
+        part2.hide();
+    }
 
     if(gameState === 1) {
         background(bg);
